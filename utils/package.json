@@ -1,5 +1,5 @@
 {
-  "name": "@dsc/utils",
+  "name": "@dscok/utils",
   "version": "1.0.0",
   "description": "Dev utils for DSC",
   "private": false,
@@ -8,8 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/Data-Systems-Consultants/dsc.git"
+    "url": "git+https://github.com/Data-Systems-Consultants/dsc.git"
   },
   "author": "Heath Corbin",
   "license": "ISC",
