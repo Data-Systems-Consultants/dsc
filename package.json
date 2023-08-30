@@ -1,5 +1,5 @@
 {
-  "name": "dsc-utilities",
+  "name": "dsc",
   "version": "1.0.0",
   "description": "Contains JS development utilities ",
   "main": "index.js",
@@ -14,8 +14,5 @@
   "bugs": {
     "url": "https://github.com/Data-Systems-Consultants/dsc/issues"
   },
-  "homepage": "https://github.com/Data-Systems-Consultants/dsc#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/Data-Systems-Consultants/dsc#readme"
 }
