@@ -38,7 +38,7 @@ const stringToDate = (dateString: string): Date | null => {
   return null;
 };
 
-export const getLocalDate = (obj: Date): Date | null => {
+export const getLocalDate = (obj: Date = new Date()): Date | null => {
   if (fns.isDate(obj)) {
     return toLocalDate(obj);
   } else {
