@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/Data-Systems-Consultants/dsc/issues"
   },
-  "homepage": "https://github.com/Data-Systems-Consultants/dsc#readme"
+  "homepage": "https://github.com/Data-Systems-Consultants/dsc#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
 }
