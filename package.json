@@ -17,5 +17,8 @@
   "homepage": "https://github.com/Data-Systems-Consultants/dsc#readme",
   "dependencies": {
     "date-fns": "^2.30.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
